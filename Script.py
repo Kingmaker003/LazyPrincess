@@ -12,7 +12,7 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Lazy Princess is an open source project. 
-- Source - https://github.com/LazyDeveloperr/LazyPrincess  
+- Source - https://github.com/Kingmaker003/LazyPrincess  
 
 <b>DEVS:</b>
 - <a href=https://t.me/tamilblasterslinkz>Tamilblasterslinkz</a>"""
